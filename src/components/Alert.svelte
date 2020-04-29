@@ -1,0 +1,10 @@
+<script>
+
+
+</script>
+
+
+<div class="alert">
+  <span class="closebtn">&times;</span>  
+  <strong>Danger!</strong> Indicates a dangerous or potentially negative action.
+</div>
